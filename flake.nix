@@ -26,6 +26,8 @@
       inputs.nixpkgs.follows = "nixpkgs";
     };
     
+    ags.url = "github:aylur/ags";
+
     niri.url = "github:sodiboo/niri-flake";
 
     fum.url = "github:qxb3/fum";

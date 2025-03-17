@@ -1,5 +1,6 @@
 {
   imports = [
+    ./ags
     ./polybar
     ./waybar
   ];
